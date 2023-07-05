@@ -8,7 +8,7 @@ Self-contained, pretty and versatile `.tmux.conf` configuration file.
 Modifications in the fork [kratocz/.tmux](https://github.com/kratocz/.tmux)
 ---------------------------------------
 
-* Added screen key bindings from the file https://github.com/ddollar/tmux/blob/ac408631381ab8568e6a1dadb0db9656ea6faac9/examples/screen-keys.conf (but both Ctrl+A and Ctrl+B still work as prefix)
+* Added screen key bindings from the file [screen-keys.conf](https://github.com/ddollar/tmux/blob/ac408631381ab8568e6a1dadb0db9656ea6faac9/examples/screen-keys.conf) in the project [ddollar/tmux](https://github.com/ddollar/tmux), but Ctrl+B kept as prefix shortcut (Ctrl+A works as shortcut too)
 
 Installation
 ------------
