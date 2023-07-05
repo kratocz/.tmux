@@ -5,6 +5,11 @@ Self-contained, pretty and versatile `.tmux.conf` configuration file.
 
 ![Screenshot](https://cloud.githubusercontent.com/assets/553208/19740585/85596a5a-9bbf-11e6-8aa1-7c8d9829c008.gif)
 
+Modifications in the fork [kratocz/.tmux](https://github.com/kratocz/.tmux)
+---------------------------------------
+
+* Added screen key bindings from the file https://github.com/ddollar/tmux/blob/ac408631381ab8568e6a1dadb0db9656ea6faac9/examples/screen-keys.conf (but both Ctrl+A and Ctrl+B still work as prefix)
+
 Installation
 ------------
 
