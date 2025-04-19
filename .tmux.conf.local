@@ -502,4 +502,20 @@ tmux_conf_uninstall_plugins_on_reload=true
 #
 # "$@"
 # # /!\ do not remove the previous line
+#
+#set -g @plugin 'tmux-plugins/tmux-sensible'
+#set -g @plugin 'tmux-plugins/tmux-resurrect'
+#set -g @plugin 'tmux-plugins/tmux-continuum'
+#set -g @plugin 'tmux-plugins/tpm'
+#set -g @plugin 'kratocz/tmux-screen'
+#set -g @plugin 'kratocz/tmux-kratocz'
+#
+#run '~/.tmux/plugins/tpm/tpm'
+#
+#set -g base-index 0
+#set -g @continuum-restore on
+#set -g @resurrect-capture-pane-contents on
+#set -g mouse off
+#set-option -g remain-on-exit off
+#set-option -g renumber-windows on
 # #     do not write below this line
